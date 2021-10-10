@@ -1,3 +1,6 @@
+2013-01-29
+Fixed Old DSONE Menu waiting time & Real Time Save Bugs..
+
 2012-10-30
 Fixed for 
 6132 ¨C Pokemon: Weisse Edition 2 (GER) 
