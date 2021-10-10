@@ -1,23 +1,23 @@
-DSONE/i Evolution SP2 OS
+Date :2010-06-01
+For performance improve:
+1, Anti-Piracy system upgrade, added new anti-piracy Engine.
+2, Fixed some games problem:
+GameWatch Game Collection
+4825 - Saku Saku Jinkou Kokyuu Care Training (J)
+4877 - How to Train Your Dragon (can not save)
+4900 - Dragon Quest Monsters Posts joker2 (J)
+4933 - Dementium 2 (U)
+4951 - Are You Smarter than a 5th Grader? Game Time
+4958 - Captain Tsubasa: Gekito No Kiseki(J)
+4963 - Super Robot Taisen OG Saga Masou Kishin THE LORD OF ELEMENTAL (J)
+4967 - Create Club DS: World Challenge 2010 (J)
+         - States husband's super-blood! Plus Football League
 
-Copy folder "scshell" & file "MSFORSC.NDS" to the memory card.
-http://forum.supercard.sc
+ Clean mode
+4952 - Prince of Persia: The Forgotten Sands (E)
 
-Program aspects:
-1.	Redesigned the card reading I/O, greatly enhance the speed of card reading. 
-2.	Fixed to The Legend of Zelda (4544,4594) save size to 8Mbit,  3690 - Made in Ore (J) (3690) save size to  256Mbit, Daigasso! Band Brothers (2385) save size to 64Mbit.
-3.	Fixed RPG tools for DS, screen mess error, change save size to 256Mbit.
-4.	Fixed a Real time save bug, some games, such as 0444 etc. no longer crash.
-5.	Fixed a read patch bug, some games, such as pocket baseball (4518) etc. no longer crashes.
-6.	Fixed Sonic Classic Collection(4765), Keroro RPG (J)(4762), Alice_In_Wonderland (U)(4760) patch mode crashes error.
-7.	Fixed Made in Ore(4812) (4274)
-Interface aspects:
-1.	Added a button ¡°Disable all¡± in the cheat code system.
-2.	Greatly reduces the waiting time into the directory (for comparison for before if there are a lot of files, enter directory will slow down)
+For UI update:
+1, The skin can customize their own
+2, Added the hot key customize defined
 
-Some game can run in Clean mode:
-3540 - Henry Hatsworth in the Puzzli (Europe) (4k save size)
-4237 - Combat of Giants: Dragons (4k save size)
-Animal Crossing Chinese Version (2M save size)
-4800 Infinite Space (4k save size) 
-4638 Might & Magic Clash of Heroes (Europe) (64k save size)   
+Note: Old version patch database can not be use in new OS. 
